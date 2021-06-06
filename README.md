@@ -1,2 +1,2 @@
 # Nand2TetrisRepo
-Curso Nand2Tetris - Coursera
+Nand2Tetris Course (https://www.nand2tetris.org/).
